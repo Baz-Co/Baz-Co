@@ -5,6 +5,6 @@
 
 - 👀 I’m interested in Front End Architecture
 - 🚀 I’m versed in React and Design Systems
-- 🌱 I’m currently learning Astro, Tailwindcss, ChatGPT
+- 🌱 I’m currently learning Astro, Tailwindcss, Deno
 - 💞️ I’m looking to collaborate on intuitive User Experiences
 - 📫 I can be reached on [LinkedIn](https://www.linkedin.com/in/shehbaz-sherwani/)
